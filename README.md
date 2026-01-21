@@ -1,11 +1,12 @@
 # Conor-Treacy-
-A little more about me and my work
 
 Hi, I’m Conor 👋
 
 I’m a molecular biophysicist working on fluorescence lifetime imaging,
-mechanobiology, and quantitative microscopy. 
-I am a Research Fellow at Brunel University of London, working in the Esposito Quantitative Biology group. 
+mechanobiology, and quantitative microscopy.
+
+I am a Research Fellow at Brunel University of London, in the Esposito
+Quantitative Biology group.
 
 Here you’ll find:
 - FLIM and FRET analysis tools
