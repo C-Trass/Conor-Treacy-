@@ -15,7 +15,6 @@ Here you’ll find:
 
 Most projects are research-grade, documented, and designed for reuse.
 
-📫 Reach me via [LinkedIn](https://www.linkedin.com/in/conor-treacy-phd-2aa7406a/) 
-Or you can reach me by email at [Email](mailto:conor.Treacy@brunel.ac.uk)
+📫 Contact: [LinkedIn](https://www.linkedin.com/in/conor-treacy-phd-2aa7406a/) | [Email](mailto:conor.Treacy@brunel.ac.uk)
 
-From photons to plots....
+_From photons to plots._
