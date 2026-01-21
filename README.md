@@ -14,3 +14,8 @@ Here you’ll find:
 - Reproducible imaging workflows
 
 Most projects are research-grade, documented, and designed for reuse.
+
+📫 Reach me via [LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/conor-treacy-phd-2aa7406a/) 
+Or you can reach me by email at [conor.Treacy@brunel.ac.uk](mailto:conor.Treacy@brunel.ac.uk)
+
+From photons to plots....
